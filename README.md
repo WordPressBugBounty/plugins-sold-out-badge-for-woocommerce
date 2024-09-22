@@ -1,0 +1,1 @@
+# plugins-sold-out-badge-for-woocommerce
